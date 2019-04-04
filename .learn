@@ -1,6 +1,8 @@
 tags:
+  - javascript
   - react
-  - props
+  - react-state
 languages:
   - javascript
-resources: 0
+resources:
+  - 1
